@@ -80,10 +80,16 @@ Coming soon
 #### 5. [Angular](https://github.com/ASAFINANCIAL/asa-client-samples/tree/main/Angular)
 Coming soon
 
-## Mobile Apps
+## Mobile Packages
 
 ### 1. Package iOS - [LoginWithASA](https://github.com/ASAFINANCIAL/LoginWithASA)
 LoginWithAsa SDK is available to be added to your project using Swift Package Manager. More details [here](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app)
+
+### 2. Package Android - [LoginWithASA](https://github.com/ASAFINANCIAL/login-with-asa)
+LoginWithAsa SDK is available to be added to your project. Use this repo as a reference of how to include Login with Asa in your project.
+
+
+## Mobile Apps
 
 ### 2. Sample iOS App - [MyMoola](https://github.com/ASAFINANCIAL/MyMoola)
 This demo app demonstrates how to handle AsaVault dynamic link and which parameters you can expect in your app.
