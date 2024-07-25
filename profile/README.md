@@ -91,13 +91,21 @@ LoginWithAsa SDK is available to be added to your project. Use this repo as a re
 
 ## Mobile Apps
 
-### 2. Sample iOS App - [MyMoola](https://github.com/ASAFINANCIAL/MyMoola)
+### 1. Sample iOS App - [MyMoola](https://github.com/ASAFINANCIAL/MyMoola)
+
+![appStoreImage]
+
 This demo app demonstrates how to handle AsaVault dynamic link and which parameters you can expect in your app.
 
-### 3. Sample Android App - [AsaPal](https://github.com/ASAFINANCIAL/AsaPalExample)
+[Avaiable in App Store](https://apps.apple.com/us/app/my-moola/id1595626159)
+
+### 2. Sample Android App - [AsaPal](https://github.com/ASAFINANCIAL/AsaPalExample)
+
+![androidPlayStoreImage]
+
 Provides code to understand how to use ASA Open API and deep links interaction.
 
-
+[Available in Play Store](https://play.google.com/store/apps/details?id=com.asa.pal&hl=en_US)
 
 [appStoreImage]: https://asa.financial/images/apple-store.png
 [androidPlayStoreImage]: https://asa.financial/images/google-play.png
