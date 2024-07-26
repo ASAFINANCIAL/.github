@@ -82,10 +82,10 @@ Coming soon
 
 ## Mobile Packages
 
-### 1. Package iOS - [LoginWithASA](https://github.com/ASAFINANCIAL/LoginWithASA)
+### 1. Package iOS - [LoginWithASA](https://github.com/ASAFINANCIAL/LoginWithASA) (iOS/Swift)
 LoginWithAsa SDK is available to be added to your project using Swift Package Manager. More details [here](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app)
 
-### 2. Package Android - [LoginWithASA](https://github.com/ASAFINANCIAL/login-with-asa)
+### 2. Package Android - [LoginWithASA](https://github.com/ASAFINANCIAL/login-with-asa) (Android/Kotlin)
 LoginWithAsa SDK is available to be added to your project. Use this repo as a reference of how to include Login with Asa in your project.
 
 
