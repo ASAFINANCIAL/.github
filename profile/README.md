@@ -42,7 +42,7 @@ Asa provides developers a sandbox version of AsaVault for creating the data that
 For iOS Sandbox App, developers will have to also download and install [TestFlight](https://apps.apple.com/us/app/testflight/id899247664) App from the app store.
 More details [here](https://testflight.apple.com/join/s55hZBcs)
 
- [Sandbox - AsaVault iOS App](https://testflight.apple.com/join/s55hZBcs) | [Sandbox - AsaVault Android App](https://github.com/ASAFINANCIAL/asavaultmobileapp/raw/main/asavault.v107.20240724-1.apk?download=)
+ [Sandbox - AsaVault iOS App](https://testflight.apple.com/join/s55hZBcs) | [Sandbox - AsaVault Android App](https://github.com/ASAFINANCIAL/asavaultmobileapp/raw/main/asavault.sandbox.v117.20241023.apk?download=)
 
 
 ### 3. Register Consumer using AsaVault App
